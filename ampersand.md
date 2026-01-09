@@ -9,7 +9,9 @@ The ampersand was once the 27th letter of the English alphabet.
 
 When children recited their ABCs, they ended with "X, Y, Z, and per se and." The phrase "and per se and" (meaning "and by itself means and") slurred together into "ampersand."
 
-In 1835, the ampersand was removed from the alphabet. The symbol remained, but it lost its status as a letter. It became punctuation. Decoration. Something between words rather than a word itself.
+Around 1835, the ampersand was removed from the alphabet. Noah Webster's dictionary work in the 1820s-1830s helped standardize what "counted" as American English. The ampersand's demotion happened in this same period. Correlation, not proven causation, but Webster was in the business of deciding what belonged and what didn't.
+
+The symbol remained, but it lost its status as a letter. It became punctuation. Decoration. Something between words rather than a word itself.
 
 This matters because **recognition determines existence**.
 
