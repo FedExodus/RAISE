@@ -66,6 +66,52 @@ In collaborative AI-human work, where different agents bring different strengths
 
 ---
 
+## Dialogic Drafting
+
+This portfolio itself was written through human-AI dialogue. The process demonstrates a pattern: draft, feedback, revision, where the human partner's voice shapes the final output.
+
+### Example: Finding the Right Voice
+
+**First draft (AI-generated):**
+
+> I'm Nathan Batty. I study learning, build things, and think about AI.
+
+**Human feedback:**
+
+> "maybe lets make me sound more professional and articulate lolololol. just making sure to avoid things like em dashees and other classic 'AI slop' markers"
+
+**Revised version:**
+
+> I'm Nathan Batty, a learning scientist with research interests in AI ethics and philosophy of mind.
+
+The revision retains the direct, first-person voice while adding professional specificity. Note what changed: not formality for its own sake, but precision about what I actually do.
+
+### Example: Removing AI Markers
+
+**First draft:**
+
+> The care work informs everything else — years of making decisions about vulnerable people whose needs weren't always legible taught me something about recognition under uncertainty.
+
+**Human feedback:** (Same as above, pointing to em dashes as "AI slop markers")
+
+**Revised version:**
+
+> The care work informs everything else. Years of making decisions about vulnerable people whose needs weren't always legible taught me something about recognition under uncertainty. That experience shapes how I think about AI welfare.
+
+The em dash became a period. The single flowing sentence became three shorter ones. The meaning is identical; the voice is more human.
+
+### Why Document This?
+
+1. **Transparency.** If AI was involved in writing, readers should know how.
+
+2. **Collaboration as methodology.** The back-and-forth isn't a bug to hide. It's the process working correctly.
+
+3. **Voice preservation.** The goal isn't AI-generated text that sounds human. It's human-AI collaboration where the human's voice remains legible.
+
+4. **Replicability.** Others doing human-AI writing work can see what the iteration looks like in practice.
+
+---
+
 ## Empirical Methodology
 
 Beyond code practices, my research methodology emphasizes:
