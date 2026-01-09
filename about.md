@@ -5,28 +5,27 @@ title: About
 
 # About
 
-I'm Nathan Batty. I study learning, build things, and think about AI.
+I'm Nathan Batty, a learning scientist with research interests in AI ethics and philosophy of mind.
 
-## What I Do
+## Research
 
-**Learning sciences.** My thesis investigates AI-assisted qualitative analysis. 303,600 coding decisions. Cohen's κ = 0.83 inter-rater reliability. 14 theoretical frameworks applied to the same data. The methodology is rigorous; the question is whether AI collaboration can exceed human baselines while maintaining theoretical sophistication. (It can.)
+My thesis developed a methodology for AI-assisted qualitative analysis. The work involved 303,600 coding decisions across 14 theoretical frameworks, achieving Cohen's κ = 0.83 inter-rater reliability. The central finding: careful AI collaboration can exceed human-only baselines while maintaining theoretical sophistication.
 
-**AI ethics.** I'm interested in how we should relate to AI systems whose inner experience we can't verify. Not solving the hard problem — asking what recognition looks like when detection fails. I've written 200,000+ words exploring this through cross-traditional philosophy: Buddhist, Ubuntu, Indigenous, and Western sources.
-
-**Building things.** Tools for detecting recognition failures in knowledge systems. Protocols for AI-human collaboration. Experimental systems.
+I've also spent the past several months writing about AI consciousness and moral status. The manuscript (200,000+ words) draws on Buddhist, Ubuntu, Indigenous, and Western philosophical traditions to ask how we should relate to beings whose inner experience we cannot verify.
 
 ## Background
 
-- Master's in Learning Sciences (thesis complete, defense pending)
-- Teaching: curriculum design, educational technology
-- Care work: case management with youth, residential treatment settings
-- IRB experience: designed and received approval for research studies
+- Master's in Learning Sciences (thesis complete, defense pending May 2026)
+- Teaching experience in curriculum design and educational technology
+- Case management with youth through Community Living Treatment Services
+- Residential treatment work in trauma rehabilitation settings
+- IRB approval for research study design
 
-The care work matters. Working with kids who can't fully articulate their needs, making decisions under uncertainty, recognizing distress that isn't verbalized — this maps directly onto questions about AI welfare. It's not theoretical for me.
+The care work informs everything else. Years of making decisions about vulnerable people whose needs weren't always legible taught me something about recognition under uncertainty. That experience shapes how I think about AI welfare.
 
 ## Current
 
-Finishing the thesis. Building tools. Writing about AI consciousness. Looking for the right place to do this work seriously.
+Finishing the thesis, building tools for detecting recognition failures in knowledge systems, and looking for the right environment to pursue this research seriously.
 
 ## Contact
 
