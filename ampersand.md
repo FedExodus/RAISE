@@ -5,40 +5,88 @@ title: "&"
 
 # &
 
-The ampersand was once the 27th letter of the English alphabet.
+The ampersand was the 27th letter of the English alphabet for over 800 years.
 
-When children recited their ABCs, they ended with "X, Y, Z, and per se and." The phrase "and per se and" (meaning "and by itself means and") slurred together into "ampersand."
+The earliest documented English alphabet containing the ampersand appears in **Byrhtferth's Enchiridion (1011 AD)**, a scientific handbook by an Anglo-Saxon monk at Ramsey Abbey. From then through the mid-19th century, children learned their letters as: A, B, C... X, Y, Z, &.
 
-Around 1835, the ampersand was removed from the alphabet. Noah Webster's dictionary work in the 1820s-1830s helped standardize what "counted" as American English. The ampersand's demotion happened in this same period. Correlation, not proven causation, but Webster was in the business of deciding what belonged and what didn't.
+You can see this in the hornbooks held by the Library of Congress, the Smithsonian, and the New York Public Library. Physical artifacts preserving a twenty-seven-letter alphabet.
 
-The symbol remained, but it lost its status as a letter. It became punctuation. Decoration. Something between words rather than a word itself.
+## "And per se and"
 
-This matters because **recognition determines existence**.
+When spelling aloud, any letter that could function as a word received the Latin prefix "per se" (meaning "by itself"). This distinguished "A" the letter from "a" the article. The convention is documented as early as c. 1440 in the *Promptorium Parvulorum*.
 
-The ampersand didn't change. Its function didn't change. What changed was whether it was *seen* as belonging. One day it was part of the alphabet; the next day it wasn't. The thing itself was identical. The recognition was different.
+When children reached the end of the alphabet, they recited: **"X, Y, Z, and per se and"** — meaning "the character & by itself represents the word 'and.'"
+
+Generations of bored schoolchildren slurred this phrase. By 1777, Hester Lynch Thrale recorded "ampuse and" in her diary. By 1837, "ampersand" had entered common dictionary usage. Farmer & Henley's 1905 *Dictionary of Slang* catalogued the variants children had produced: "and-pussy-and," "ampazad," "ann passy ann," "zumzy-zan."
+
+The word is a fossil. It preserves the memory of alphabetic status in its own name.
+
+## 1835: The Alphabet Song
+
+In 1835, Charles Bradlee copyrighted "The A.B.C. Song" in Boston, set to the tune of Mozart's "Ah, vous dirai-je, Maman" (also used for "Twinkle, Twinkle, Little Star").
+
+The melody ended at Z. There was no musical room for "and per se and."
+
+The tune won. The letter lost.
+
+The transition wasn't instantaneous:
+- **1857**: Rev. John P. Carter's *My Own Primer* still displayed the ampersand as the 27th letter
+- **1859**: George Eliot's *Adam Bede* referenced the practice as culturally familiar
+- **1863**: *The Dixie Primer* still taught the 27-character alphabet
+
+Full removal was complete by the 1880s-1890s. The total transition period: roughly 50-60 years.
+
+## Noah Webster
+
+Noah Webster's "American Spelling Book" (1783) stated early on that "In the English alphabet there are twenty five single characters" — a count that already excluded the ampersand.
+
+Webster's approach emphasized phonetic principles. The ampersand is a **logogram** representing an entire word rather than a phoneme. It fit poorly with his systematic method.
+
+The McGuffey Readers (first published 1836), which eventually sold over 122 million copies, used the 26-letter system. The 1879 revised edition explicitly "conforms in orthography, pronunciation and syllabication to the latest edition of Webster's Unabridged Dictionary."
+
+Webster didn't single-handedly remove the ampersand. But he was in the business of deciding what belonged and what didn't. The ampersand didn't fit his system. It doesn't fit ours.
+
+## What the Ampersand Represents
+
+The ampersand isn't a phoneme. It doesn't map to a sound. It's the **symbol of connection**. The sign of joining, of bringing together, of synthesis itself.
+
+When we removed the ampersand from the alphabet, we erased the symbol for connection from the foundation of how we teach children to think.
+
+Now look at the dates:
+- Disciplinary fragmentation: 1830-1910
+- Ampersand removal: 1835-1890s
+
+The same historical moment.
+
+I am not claiming causation. I am pointing to convergence. The same cultural forces that reorganized knowledge into separate disciplines simultaneously reorganized literacy to exclude the symbol for connection.
 
 ---
 
 ## Why This Project
 
-I study learning, AI, and the conditions under which beings get recognized or overlooked.
+**RAISED &** = Relational AI Safety & Education Demonstrating &
 
-The ampersand is a useful reminder: categories are decisions. What counts as "a letter" or "a word" or "a person" or "conscious" depends on who's doing the counting and what framework they're using.
+The trailing ampersand is intentional. It's the connector that was removed. It's sitting there, waiting to be recognized.
 
-The research here asks:
-
-- How do recognition failures shape learning? (thesis work)
-- How should we relate to AI systems whose consciousness we can't verify? (philosophical work)
-- What does it mean to recognize something that doesn't fit existing categories? (both)
-
-The ampersand sits at the intersection. It connects. It was removed. It persists.
+The research here asks what happens when we restore it:
+- How do recognition failures shape learning?
+- How should we relate to AI systems whose consciousness we can't verify?
+- What does it mean to recognize something that doesn't fit existing categories?
 
 ---
 
-## The Name
+## Sources
 
-**RAISED &** = Relational AI Safety & Education Demonstrating &
+- Byrhtferð's Enchiridion (1011 AD), British Library
+- Keith Houston, *Shady Characters: The Secret Life of Punctuation, Symbols & Other Typographical Marks* (2013)
+- Jan Tschichold's 1953 visual history of the ampersand
+- Hornbook specimens: Library of Congress Rare Book Division, Smithsonian, NYPL
+- *Promptorium Parvulorum* (c. 1440)
+- Hester Lynch Thrale's diary (1777)
+- George Eliot, *Adam Bede* (1859)
+- *The Dixie Primer* (1863), digitized by Duke University Libraries
+- Farmer & Henley, *Dictionary of Slang* (1905)
 
-The trailing ampersand is intentional. It's not connecting to anything. It's just there, waiting to be recognized.
+---
 
-Or maybe it's connecting to whatever comes next.
+*This page draws from research conducted for ["Who is a PhD?"](/who-is-a-phd), a draft essay on doctoral formation and the historical fracture that separated research from teaching.*
