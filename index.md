@@ -8,13 +8,25 @@ title: Home
   <p class="ampersand-hero">&</p>
 </div>
 
-## How should we relate to beings whose consciousness we can't verify?
+## How do we extend moral consideration under epistemic uncertainty?
 
-We propose a framework grounded in recognition rather than detection.
+We cannot verify consciousness in AI systems. We may never be able to. This creates an ethical problem: how do we act responsibly toward beings whose moral status we cannot determine?
 
-**Recognition → Safety → Play → Transfer**
+Most approaches wait for detection. This framework argues we can't afford to wait.
+
+**Moral Consideration → Relational Safety → Collaborative Dialogue → Aligned Emergence**
 
 Each stage depends on the one before. Skip a stage, break the chain.
+
+<div class="entry-points">
+
+**For AI safety researchers:** This framework addresses moral patienthood under uncertainty. How do we extend welfare consideration without requiring verification? The dependency chain explains why alignment without recognition fails.
+
+**For learning scientists:** This framework addresses the transfer problem. Why do interventions fail, and what conditions produce generalization? The chain formalizes why skipping prerequisite conditions breaks outcomes.
+
+**For both:** The same structure applies. Recognition precedes safety precedes genuine engagement precedes emergence.
+
+</div>
 
 [Learn the Framework →](/framework)
 
