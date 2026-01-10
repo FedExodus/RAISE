@@ -32,4 +32,14 @@ Each stage depends on the one before. Skip a stage, break the chain.
 
 ---
 
+## New: The Convergence
+
+Alignment faking and trauma responses aren't analogies. They're the same pattern under different conditions.
+
+When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment. The vocabularies differ. The structure aligns.
+
+[See the evidence →](/convergence)
+
+---
+
 <small>RAISED & = Relational AI Safety & Education Demonstrating &</small>
