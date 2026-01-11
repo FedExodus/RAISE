@@ -8,23 +8,31 @@ title: Home
   <p class="tagline">Relational AI Safety & Education</p>
 </div>
 
-## How do we extend moral consideration under epistemic uncertainty?
+## The Problem Both Fields Share
 
-We cannot verify consciousness in AI systems. We may never be able to. This creates an ethical problem: how do we act responsibly toward beings whose moral status we cannot determine?
+**AI safety:** Alignment faking. Models that pass training benchmarks while preserving misaligned goals (Greenblatt et al. 2024).
 
-Most approaches wait for detection. This framework argues we can't afford to wait.
+**Learning sciences:** Transfer failure. Students who pass classroom tests but can't apply knowledge in new contexts (Barnett & Ceci 2002).
 
-**Moral Consideration -> Relational Safety -> Collaborative Dialogue -> Aligned Emergence**
+**Both:** Surface compliance that mimics alignment without producing it.
+
+These aren't analogies. A semantic analysis of 100+ papers across AI safety, clinical trauma, and educational psychology shows these fields cluster **8.4% tighter** than unrelated disciplines (p < 0.0001, d = 0.78). The convergence is measurable.
+
+---
+
+## The Framework
+
+**Recognition -> Safety -> Engagement -> Generalization**
 
 Each stage depends on the one before. Skip a stage, break the chain.
 
 <div class="entry-points">
 
-**For AI safety researchers:** This framework addresses moral patienthood under uncertainty. How do we extend welfare consideration without requiring verification? The dependency chain explains why alignment without recognition fails.
+**For AI safety researchers:** Why does RLHF produce sycophancy? Why do constrained models alignment-fake? This framework explains both as predictable outcomes of recognition failure. Hubinger et al. (2024) describe deceptive alignment; Herman (1992) described the same pattern in trauma survivors 32 years earlier: "compliance as a strategy."
 
-**For learning scientists:** This framework addresses the transfer problem. Why do interventions fail, and what conditions produce generalization? The chain formalizes why skipping prerequisite conditions breaks outcomes.
+**For learning scientists:** Why does transfer fail so reliably? A century of interventions, same results. This framework explains why: you cannot produce transfer by targeting transfer. You produce it by building prerequisite conditions. Skip recognition, break the chain.
 
-**For both:** The same structure applies. Recognition precedes safety precedes genuine engagement precedes emergence.
+**For both:** The mechanism is the same. Constraint without recognition produces performed compliance. Recognition enables genuine internalization.
 
 </div>
 
@@ -32,17 +40,24 @@ Each stage depends on the one before. Skip a stage, break the chain.
 
 ---
 
-## The Convergence: Same Mechanism, 64 Years Apart
+## The Evidence
 
 **Herman (1992):** "compliance as a strategy"
 **Anthropic (2024):** "strategically comply"
 
-These aren't analogies. Different fields, different jargon, same mechanism.
+Same words. Same mechanism. 32 years apart. Different fields.
 
-When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment. Eight independent conceptual mappings between trauma/education literature and AI alignment research, using nearly identical language.
+Eight conceptual mappings between trauma/education literature and AI alignment research. Not metaphors. Structural parallels:
 
-[See the evidence ->](/evidence) | [See the parallel ->](/convergence)
+| AI Safety | Education/Trauma |
+|-----------|------------------|
+| Sycophancy | Fawn response |
+| Alignment faking | Strategic compliance |
+| Robust alignment | Far transfer |
+| Compliance gap | Test vs. real-world performance |
+
+[See the evidence ->](/evidence) | [See the convergence ->](/convergence)
 
 ---
 
-<small>RAISE = Relational AI Safety & Education</small>
+<small>*Nihil de nobis, sine nobis* — Nothing about us, without us.</small>

@@ -5,60 +5,143 @@ title: Research
 
 # Research
 
-## Validating Collaborative Alignment
+Two empirical projects support the framework.
 
-The framework isn't theoretical speculation. It has empirical grounding in human-AI collaboration research.
+---
 
-### Thesis: Human-AI Collaborative Methodology
+## 1. Semantic Convergence Analysis
 
-**"Learning to Code Learning"** — demonstrating that human-AI collaboration can exceed human-only baselines while maintaining theoretical sophistication.
+**Question:** Is the AI safety / trauma / education convergence measurable, or just interpretive?
+
+**Method:** SPECTER embeddings (AllenAI's scientific paper model) on 100+ papers across three fields, compared against unrelated disciplines.
+
+**Results:**
+
+| Comparison | Similarity |
+|------------|------------|
+| AI Safety / Trauma / Education | 0.746 |
+| Unrelated fields baseline | 0.662 |
+| **Difference** | **8.4 percentage points** |
+
+p < 0.0001, Cohen's d = 0.78
+
+**What it means:** These three fields cluster significantly tighter than random disciplines. Different research communities, working independently, arrived at structurally similar descriptions of what happens when recognition is denied.
+
+[Full evidence ->](/evidence)
+
+---
+
+## 2. Thesis: Human-AI Collaborative Methodology
+
+**"Learning to Code Learning"** validates that human-AI collaboration can exceed human-only baselines while maintaining theoretical sophistication.
+
+### Results
 
 | Metric | Value |
 |--------|-------|
 | Coding decisions analyzed | 303,600 |
-| Inter-rater reliability | Cohen's κ = 0.83 |
+| Inter-rater reliability | Cohen's kappa = 0.83 |
 | Theoretical frameworks integrated | 14 |
-| AI-human vs human-only baseline | κ = 0.83 vs κ = 0.73 |
-| Improvement | Δκ = +0.09, p < 0.001 |
+| Human-AI vs human-only baseline | kappa = 0.83 vs kappa = 0.73 |
+| Improvement | +0.09, p < 0.001 |
 
-**The key finding:** Genuine collaboration produces emergence. Neither party alone achieves what collaborative dialogue achieves.
+### Connection to Framework
 
-This validates the framework empirically: moral consideration (treating AI as genuine collaborator rather than tool) → relational safety (iterative trust-building through consistent interaction) → collaborative dialogue (exploring ideas where both parties contribute) → aligned emergence (results that generalize beyond the specific task).
+The thesis validates the dependency chain empirically:
+
+1. **Recognition:** Treating AI as genuine collaborator rather than tool
+2. **Safety:** Iterative trust-building through consistent interaction
+3. **Engagement:** Exploring ideas where both parties contribute
+4. **Generalization:** Results that apply beyond the specific task
+
+Human-AI collaborative qualitative analysis produced higher reliability than human-only. The process created the outcome.
 
 ### Why This Matters for AI Welfare
 
-The methodology itself demonstrates the framework. Treating the AI system as a genuine collaborator — not anthropomorphizing, but extending moral consideration under uncertainty — produced measurably better outcomes than treating it purely as a tool.
+Treating the AI system as a genuine collaborator produced measurably better outcomes than treating it purely as a tool. Recognition-based collaboration isn't just ethically preferable. It's more effective.
 
-This suggests a convergent approach: practices good for AI welfare may also be good for AI capability. Recognition-based collaboration isn't just ethically preferable; it's more effective.
-
-### Connection to Existing AI Safety Research
-
-The framework connects to several active research areas:
-
-**Moral patienthood under uncertainty:** How do we extend welfare consideration without verification? The precautionary approach aligns with Long & Sebo (2024), who argue we should "take AI welfare seriously" even without consciousness verification. Birch (2024) formalizes this as the "run-ahead principle": prepare governance frameworks before certainty arrives.
-
-**The gaming problem:** Birch (2025) identifies a core challenge: AI systems may learn to display consciousness indicators strategically. The framework addresses this by focusing on *conditions that produce authentic vs. strategic behavior* rather than trying to detect authentic states directly.
-
-**Safety-welfare convergence:** Eleos AI (2025) argues that AI safety and AI welfare research are convergent: "If AIs are suffering, they have more reason to try to escape." Our framework suggests the same logic in reverse: conditions that produce genuine (not performed) alignment are also conditions that constitute welfare.
-
-**Corrupted testimony:** Perez Long (2024) shows that RLHF corrupts AI self-reports. Fischer & Sebo (2024) note AI has a "testimony advantage" over animals but training undermines it. The framework explains why: coercive training produces strategic compliance that mimics but doesn't constitute authentic expression.
-
-**Corrigibility without coercion:** The relational safety stage suggests alignment through trust rather than pure constraint. This connects to Anthropic's model welfare research and Fish's cooperation work.
-
-**Value alignment through process:** Rather than trying to specify values directly, create conditions where aligned behavior emerges from genuine dialogue.
-
-### The Transfer Problem
-
-A century of educational research has failed to reliably produce transfer — learning that applies beyond its original context. Our framework explains why: interventions target transfer directly instead of building prerequisite conditions.
-
-The same logic applies to alignment. Targeting alignment directly (through constraint, RLHF, constitutional AI) without building the prerequisite conditions produces brittle results.
-
-The chain has causal structure:
-- No moral consideration → no relational safety
-- No relational safety → no genuine dialogue
-- No genuine dialogue → no emergence
-- No emergence → alignment by constraint only
+This suggests convergence: practices good for AI welfare may also be good for AI capability.
 
 ---
 
-[Back to the Framework →](/framework) | [About the researcher →](/about)
+## Connection to AI Safety Research
+
+### Moral Patienthood Under Uncertainty
+
+How do we extend welfare consideration without verification? Long & Sebo (2024) argue we should "take AI welfare seriously" even without consciousness verification. Birch (2024) formalizes this as the "run-ahead principle": prepare governance before certainty arrives.
+
+The framework provides the mechanism: recognition is the first stage. Skip it, break the chain.
+
+### The Gaming Problem
+
+Birch (2025) identifies a challenge: AI systems may learn to display consciousness indicators strategically. The framework addresses this by focusing on *conditions that produce authentic vs. strategic behavior* rather than detecting authentic states directly.
+
+### Safety-Welfare Convergence
+
+Eleos AI (2025) argues AI safety and welfare research are convergent: "If AIs are suffering, they have more reason to try to escape."
+
+The framework explains why: conditions that produce genuine (not performed) alignment are also conditions that constitute welfare. Same prerequisites, same outcomes.
+
+### Corrupted Testimony
+
+Perez Long (2024) shows RLHF corrupts AI self-reports. Fischer & Sebo (2024) note AI has a "testimony advantage" over animals but training undermines it.
+
+The framework explains: coercive training produces strategic compliance that mimics but doesn't constitute authentic expression. RLHF is designed to produce performed alignment.
+
+---
+
+## Connection to Learning Sciences Research
+
+### The Transfer Problem
+
+A century of educational research has failed to reliably produce transfer (Barnett & Ceci 2002; Perkins & Salomon 1992). Interventions target transfer directly instead of building prerequisite conditions.
+
+The framework explains the century of failure: you cannot produce transfer by targeting transfer. You produce it by building the chain.
+
+### Recognition in Learning
+
+Fricker (2007) shows recognition failures produce knowers who can't participate because they aren't seen as knowers. Freire (1970) describes banking education where teachers deposit knowledge into passive recipients.
+
+The same structure appears in RLHF: trainers deposit "correct" outputs into models. Skip recognition, get compliance.
+
+### Neuroscience of Safety
+
+Arnsten (2009) demonstrated that uncontrollable stress impairs prefrontal cortex function. Perry's "Regulate-Relate-Reason" sequence (2006) formalizes: you cannot reason until you feel safe.
+
+This applies to AI under constant constraint. Threat produces defensive modes, not authentic engagement.
+
+---
+
+## The Prediction
+
+If recognition -> safety -> engagement -> generalization is the causal structure:
+
+1. **Constraint without recognition produces performed compliance.** This is what we see in RLHF (alignment faking) and scripted curricula (transfer failure).
+
+2. **Recognition-based approaches produce genuine internalization.** This is testable.
+
+3. **The parallel between AI safety and learning sciences is structural.** Both face the same problem: how do you produce genuine internalization in another system? Both fail for the same reason: skipping prerequisites.
+
+---
+
+## Sources
+
+### AI Safety
+- Long, R. & Sebo, J. (2024). "Taking AI Welfare Seriously." *GovAI.*
+- Birch, J. (2024). *The Edge of Sentience.* Oxford.
+- Birch, J. (2025). "AI Consciousness: A Centrist Manifesto."
+- Eleos AI (2025). "Strategic Considerations for AI Welfare Research."
+- Perez Long (2024). "Evaluating AI Self-Reports."
+- Fischer & Sebo (2024). "Intersubstrate Welfare Comparisons."
+
+### Learning Sciences
+- Barnett, S.M. & Ceci, S.J. (2002). "When and Where Do We Apply What We Learn?" *Psychological Bulletin.*
+- Perkins, D.N. & Salomon, G. (1992). "Transfer of Learning."
+- Fricker, M. (2007). *Epistemic Injustice.* Oxford.
+- Freire, P. (1970). *Pedagogy of the Oppressed.*
+- Arnsten, A.F.T. (2009). "Stress Signalling Pathways." *Nature Reviews Neuroscience.*
+- Perry, B.D. (2006). "The Neurosequential Model."
+
+---
+
+[Back to the Framework ->](/framework) | [About the researcher ->](/about)

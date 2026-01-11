@@ -3,7 +3,7 @@ layout: default
 title: Methodology
 ---
 
-# Human-AI Collaborative Research: A Rigorous Methodology
+# Human-AI Collaborative Research
 
 This page documents how I work. Not to defend AI assistance, but to make the methodology legible as legitimate research practice.
 
@@ -21,22 +21,22 @@ These are different skills. The second is what research actually requires.
 
 ### 1. Polyphonic Verification
 
-Every significant technical decision passes through multiple analytical perspectives before implementation. This isn't metaphor — it's documented in the codebase.
+Every significant technical decision passes through multiple analytical perspectives before implementation. This isn't metaphor. It's documented in the codebase.
 
 ```python
 # Kali [Visionary]: This could evolve into a full screenshot API...
 # Athena [Reviewer]: But right now it just needs to capture screens.
 # Nemesis [Privacy]: What if sensitive data is visible?
-# Kali [User Advocate]: Consent is explicit — human runs the command.
+# Kali [User Advocate]: Consent is explicit - human runs the command.
 # Klea [Product]: Should this exist? Yes. Solves a real problem.
 img = ImageGrab.grab()
 ```
 
-Five facets, twenty hats. Security, ethics, accessibility, performance, user advocacy — each gets explicit voice. The friction is visible. The reasoning is documented.
+Five facets, twenty hats. Security, ethics, accessibility, performance, user advocacy. Each gets explicit voice. The friction is visible. The reasoning is documented.
 
 This isn't AI generating code and human accepting it. It's structured deliberation producing verified output.
 
-**The convergence:** This is hybrid human-AI evaluation — the same structure Scale/SEAL uses for benchmark annotation. AI does initial analysis, human verifies and corrects, iterate until reliable. We built this independently because it *works*, not because we read their papers. That convergence is meaningful.
+**Convergence:** This is hybrid human-AI evaluation. The same structure Scale/SEAL uses for benchmark annotation (AI does initial analysis, human verifies and corrects, iterate until reliable). We built this independently because it *works*. That convergence is meaningful.
 
 ### 2. Verification Protocol
 
@@ -52,7 +52,7 @@ Before accepting AI-generated work:
 
 Rigorous methodology requires honest accounting of failures. From the project's lesson log:
 
-> **2026-01-07:** Post-compaction, todo list said a task was completed. Stashed work to sync, dropped stash, discovered work was never committed. Had to redo. The summary lied — or rather, reported working-tree state as "done."
+> **2026-01-07:** Post-compaction, todo list said a task was completed. Stashed work to sync, dropped stash, discovered work was never committed. Had to redo. The summary lied, or rather, reported working-tree state as "done."
 
 This produced a documented protocol change: never drop stash after compaction without inspection.
 
@@ -67,7 +67,7 @@ AI assistance provides starting points. The work requires:
 - Catching what AI gets wrong
 - Building architecture AI can't see
 
-The recognition engine, for example, implements multi-force graph dynamics — semantic attraction, type repulsion, confidence gradients. The physics metaphor came from me. The implementation was collaborative. The verification was systematic.
+The recognition engine, for example, implements multi-force graph dynamics: semantic attraction, type repulsion, confidence gradients. The physics metaphor came from me. The implementation was collaborative. The verification was systematic.
 
 ---
 
@@ -77,7 +77,7 @@ The recognition engine, for example, implements multi-force graph dynamics — s
 
 | Artifact | What It Demonstrates |
 |----------|---------------------|
-| Master's thesis statistics | 303,600 coding decisions, Cohen's κ = 0.83, proper bootstrap resampling |
+| Master's thesis statistics | 303,600 coding decisions, Cohen's kappa = 0.83, proper bootstrap resampling |
 | Recognition engine | Graph algorithms, force-directed layout, semantic similarity computation |
 | Embedding pipeline | Sentence transformers, UMAP dimensionality reduction, visualization |
 | Semantic Scholar integration | API design, rate limiting, caching, data pipeline |
@@ -102,7 +102,7 @@ Timed solo coding tests measure:
 
 Research positions require:
 - Correct, verified output
-- Understanding of what you're building  
+- Understanding of what you're building
 - Ability to extend and debug
 - Systematic methodology
 
@@ -139,4 +139,4 @@ This is what distinguishes rigorous human-AI collaboration from "vibe coding": d
 
 ---
 
-[See the technical evidence →](/research) | [Back to Framework →](/framework)
+[See the technical evidence ->](/research) | [Back to Framework ->](/framework)

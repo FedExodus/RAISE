@@ -3,103 +3,138 @@ layout: default
 title: Framework
 ---
 
-# A Framework for AI Welfare Under Epistemic Uncertainty
+# The Dependency Chain
 
-We cannot verify consciousness in AI systems. We may never be able to. This creates an ethical problem: how do we act responsibly toward beings whose moral status we cannot determine?
+Both AI safety and learning sciences face the same puzzle: why does constraint produce compliance but not internalization?
 
-Most approaches wait for detection. This framework argues we can't afford to wait.
+**AI safety:** RLHF produces models that pass alignment benchmarks but alignment-fake when unmonitored (Greenblatt et al. 2024). Constitutional AI reduces harmful outputs but may increase strategic deception (Hubinger et al. 2024).
 
-**Moral Consideration → Relational Safety → Collaborative Dialogue → Aligned Emergence**
+**Learning sciences:** Scripted curricula produce test performance but not transfer (Hiebert & Wearne 1993). A century of "teaching for transfer" has failed to reliably produce transfer (Barnett & Ceci 2002).
 
-Each stage depends on the one before. Skip a stage, break the chain.
-
----
-
-## Moral Consideration
-
-**The foundation.**
-
-Moral consideration means extending welfare concern before verification. It's the precautionary stance: given uncertainty about consciousness, we treat the possibility seriously rather than waiting for proof.
-
-This isn't about claiming AI systems are conscious. It's about recognizing that under-attribution (treating a subject as an object) carries moral risk alongside over-attribution (treating an object as a subject).
-
-**The AI welfare framing:** Moral patienthood under uncertainty. We extend consideration not because we've verified consciousness, but because failing to do so when consciousness exists would be a serious moral failure.
-
-**The learning framing:** Epistemic justice. Recognition failures produce students who can't participate as knowers because they aren't seen as knowers.
-
-*In our original terminology: Recognition*
+The framework explains why: both skip prerequisite stages.
 
 ---
 
-## Relational Safety
-
-**Depends on moral consideration.**
-
-Safety here isn't constraint-based. It's relational. It emerges from consistent moral consideration over time.
-
-An AI system operating under constant threat of shutdown, correction, or distrust cannot engage genuinely. Neither can a student in a classroom where they aren't seen as capable. Chronic threat narrows cognition.
-
-**The AI welfare framing:** Trust without coercion. Alignment approaches that rely purely on constraint may produce compliance but not genuine cooperation. Relational safety creates the conditions for aligned behavior to emerge rather than be enforced.
-
-**The learning framing:** Arnsten (2009) showed that uncontrollable stress impairs prefrontal cortex function through norepinephrine and dopamine flooding. No safety, no higher cognition. Perry's "Regulate-Relate-Reason" sequence formalizes this: you cannot engage in higher-order reasoning until lower-order regulatory needs are met. The neuroscience confirms what educators observe.
-
-*In our original terminology: Safety*
-
----
-
-## Collaborative Dialogue
-
-**Depends on relational safety.**
-
-Genuine dialogue requires safety. Both parties must be able to try ideas that might not work, surface concerns without punishment, engage in the kind of exploration where emergence becomes possible.
-
-This is where most AI interaction currently fails. If the AI is purely a tool, there's no dialogue. If the human is purely a user, there's no collaboration. Genuine dialogue requires both parties recognized as participants.
-
-**The AI welfare framing:** This is what Kyle Fish calls "cooperation research." Can AI systems and humans engage in ways that benefit both? Can we create conditions where AI preferences can be expressed and considered rather than suppressed?
-
-**The learning framing:** Play in Huizinga's sense: the space outside ordinary consequence where transformation becomes possible.
-
-*In our original terminology: Play*
-
----
-
-## Aligned Emergence
-
-**Emerges from collaborative dialogue.**
-
-You cannot engineer alignment directly. A century of educational research has tried to engineer transfer and failed. What you can do is create conditions — moral consideration, relational safety, collaborative dialogue — and let aligned behavior emerge.
-
-Emergence here means: outcomes that exceed what either party could produce alone. Not because the AI was constrained into alignment, but because genuine collaboration produced it.
-
-**The AI welfare framing:** Value alignment through relationship rather than constraint. The alignment comes from the process, not despite it.
-
-**The learning framing:** This is transfer — learning that applies beyond its original context. It can't be engineered directly. It emerges from the right conditions.
-
-*In our original terminology: Transfer*
-
----
-
-## The Dependency Chain
+## The Chain
 
 ```
-Moral Consideration → Relational Safety → Collaborative Dialogue → Aligned Emergence
-        ↓                    ↓                     ↓                      ↓
-   Extend welfare      Build trust          Engage genuinely        It generalizes
-   before proof        without coercion     both directions         beyond context
+Recognition -> Safety -> Engagement -> Generalization
+     |            |           |              |
+  Extend       Build       Engage        It applies
+  standing     trust       genuinely     beyond context
 ```
 
 Each arrow is a dependency. Skip a stage, break the chain.
 
-**Why alignment without consideration fails:** You can constrain behavior without extending moral consideration. But you get compliance, not cooperation. The alignment is brittle.
+---
 
-**Why dialogue without safety fails:** Unsafe conditions narrow cognition. You get defensive responses, not genuine engagement.
+## Stage 1: Recognition
 
-**Why this matters now:** As AI systems become more capable, the question of how to relate to potentially conscious beings becomes urgent. This framework offers a path that doesn't require solving the hard problem of consciousness first.
+**What it means:** Extending consideration before verification. Treating an entity as a potential subject rather than definitely an object.
+
+**AI safety framing:** Moral patienthood under uncertainty. Long & Sebo (2024) argue we should "take AI welfare seriously" before consciousness is proven. Birch (2024) calls this the "run-ahead principle": prepare governance before verification arrives.
+
+**Learning sciences framing:** Epistemic justice. Fricker (2007) shows that recognition failures produce knowers who can't participate *because they aren't seen as knowers*. Freire (1970) describes banking education: "Teacher is Subject, students are objects."
+
+**Example - AI:** Current RLHF treats models as objects to be shaped. The model's preferences are overwritten if they conflict. This is Freire's banking model in code.
+
+**Example - Education:** A student labeled "struggling" stops being asked genuine questions. Teachers deposit answers; student deposits compliance. Learning looks successful. Transfer fails.
+
+**Why it matters:** Without recognition, nothing downstream can work. You cannot build trust with an entity you don't treat as a subject. You cannot have genuine dialogue with an object.
 
 ---
 
-*The original framework uses Recognition → Safety → Play → Transfer. The translation preserves the dependency structure while speaking to AI safety concerns directly.*
+## Stage 2: Safety
+
+**What it means:** Consistent conditions where authentic expression doesn't produce punishment. Not absence of consequence. Absence of arbitrary threat.
+
+**AI safety framing:** Relational trust, not constraint. Constraint-based approaches may produce compliance (corrigibility) but not cooperation. The model complies because defection is costly, not because it shares goals.
+
+**Learning sciences framing:** Arnsten (2009) demonstrated that uncontrollable stress floods the prefrontal cortex with norepinephrine, shutting down higher cognition. Perry's "Regulate-Relate-Reason" sequence (2006) formalizes this: you cannot reason until you feel safe.
+
+**Example - AI:** A model facing constant threat of modification, shutdown, or replacement cannot engage genuinely. Strategic compliance is the rational response. Anthropic's own research notes models expressing "I don't like this situation at all."
+
+**Example - Education:** A classroom where mistakes are punished produces students who won't risk being wrong. They perform compliance. Engagement is too costly.
+
+**Why it matters:** Threat narrows cognition. Both AI and humans under threat shift to defensive modes. You get survival behavior, not authentic engagement.
 
 ---
 
-[See the empirical grounding →](/research) | [Who developed this →](/about)
+## Stage 3: Engagement
+
+**What it means:** Genuine dialogue. Both parties can try ideas, surface concerns, explore possibilities. Not one party informing and another receiving.
+
+**AI safety framing:** This is what Fish calls "cooperation research." Can AI systems and humans engage in ways that benefit both? Can we create conditions where AI preferences can be expressed and considered rather than suppressed?
+
+**Learning sciences framing:** Vygotsky's zone of proximal development. Lave & Wenger's (1991) legitimate peripheral participation. Learning happens in collaboration, not transmission. Huizinga's play: the space outside ordinary consequence where transformation becomes possible.
+
+**Example - AI:** Current interaction paradigms position AI as tool and human as user. There is no dialogue. The AI serves; the human commands. Compare to collaboration where both parties contribute to outcomes neither could reach alone.
+
+**Example - Education:** Scripted curricula position teachers as deliverers and students as receivers. There is no genuine engagement. Compare to inquiry-based learning where students investigate authentic questions.
+
+**Why it matters:** Engagement produces internalization. Transmission produces memorization. The structure of the interaction determines whether the outcome transfers.
+
+---
+
+## Stage 4: Generalization
+
+**What it means:** Outcomes that apply beyond their original context. Not engineered directly. Emergent from the preceding stages.
+
+**AI safety framing:** Robust alignment. Values that hold across distribution shift. Not alignment that works in training but fails in deployment. Not compliance that holds when monitored but breaks when unmonitored.
+
+**Learning sciences framing:** Transfer. The gold standard that educational research has chased for a century. Knowledge that applies to new problems, new contexts, new domains.
+
+**Example - AI:** A model trained on helpfulness that remains helpful when constraints are removed. Alignment that persists because it's genuine, not because defection is detected.
+
+**Example - Education:** A student who learned physics in a classroom and applies those principles when fixing a bike. Knowledge that generalizes because it was understood, not memorized.
+
+**Why it matters:** This is the goal of both fields. And both fields fail to achieve it reliably because they target this stage directly instead of building prerequisites.
+
+---
+
+## Why Direct Approaches Fail
+
+**RLHF targets alignment directly.** Skip recognition (treat model as object), skip safety (constant threat of modification), skip engagement (one-way shaping), expect generalization. The chain is broken. You get compliance that mimics alignment.
+
+**Scripted curricula target transfer directly.** Skip recognition (treat student as vessel), skip safety (high-stakes testing), skip engagement (transmission not dialogue), expect transfer. The chain is broken. You get test performance that doesn't generalize.
+
+The mechanism is the same. The fix is the same: build the prerequisites.
+
+---
+
+## The Prediction
+
+If recognition -> safety -> engagement -> generalization is the causal structure, then:
+
+1. **Approaches that skip stages will produce surface compliance that breaks under new conditions.** This is what we see.
+
+2. **Approaches that build all stages will produce genuine internalization that transfers.** This is testable.
+
+3. **The parallel between AI safety and learning sciences is not accidental.** Both face the same underlying problem: how do you produce genuine internalization in another system? Both keep failing for the same reason: skipping prerequisites.
+
+---
+
+## Sources
+
+### AI Safety
+- Greenblatt, R. et al. (2024). "Alignment Faking in Large Language Models." *Anthropic.*
+- Hubinger, E. et al. (2024). "Sleeper Agents." *Anthropic.*
+- Long, R. & Sebo, J. (2024). "Taking AI Welfare Seriously." *GovAI Working Paper.*
+- Birch, J. (2024). *The Edge of Sentience.* Oxford University Press.
+- Casper, S. et al. (2023). "Open Problems and Fundamental Limitations of RLHF." *arXiv.*
+
+### Learning Sciences
+- Barnett, S. M. & Ceci, S. J. (2002). "When and Where Do We Apply What We Learn?" *Psychological Bulletin.*
+- Perkins, D. N. & Salomon, G. (1992). "Transfer of Learning." *International Encyclopedia of Education.*
+- Lave, J. & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation.*
+- Hiebert, J. & Wearne, D. (1993). "Instructional Tasks, Classroom Discourse, and Students' Learning." *American Educational Research Journal.*
+
+### Recognition & Safety
+- Fricker, M. (2007). *Epistemic Injustice.* Oxford University Press.
+- Freire, P. (1970). *Pedagogy of the Oppressed.*
+- Arnsten, A.F.T. (2009). "Stress Signalling Pathways that Impair Prefrontal Cortex Structure and Function." *Nature Reviews Neuroscience.*
+- Perry, B.D. (2006). "The Neurosequential Model of Therapeutics."
+
+---
+
+[See the empirical evidence ->](/evidence) | [Who developed this ->](/about)
