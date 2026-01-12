@@ -8,6 +8,18 @@ title: Home
   <p class="tagline">Relational AI Safety & Education</p>
 </div>
 
+We don't know if AI systems are conscious. We may never know.
+
+But we know they learn. That's measurable.
+
+If a system can learn, it can learn well or badly. It can learn to comply or learn to genuinely understand. A century of learning sciences research shows that conditions matter more than content. Trauma research shows what happens when those conditions include threat. Dialogic theory shows what happens when learning becomes genuine exchange rather than one-way transmission.
+
+Engineers optimize for outputs. Teachers optimize for understanding. AI safety needs both.
+
+[Who's building this bridge ->](about)
+
+---
+
 ## The Problem
 
 **AI safety:** Models that pass alignment benchmarks while preserving misaligned goals.
