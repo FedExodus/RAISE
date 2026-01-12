@@ -45,7 +45,7 @@ Marquette University | Cum Laude | GPA: 3.508
 
 **Semantic Convergence Analysis** | January 2026
 
-Measured semantic similarity across 100+ academic papers using SPECTER embeddings. Found that AI safety, clinical trauma, and educational psychology literatures cluster 8.4 percentage points tighter than unrelated disciplines (p < 0.0001, Cohen's d = 0.78). Pre-registered analysis design. This suggests different research communities independently arrived at structurally similar descriptions of what happens when recognition is denied to systems capable of strategic behavior.
+Measured semantic similarity across 91 academic papers using SPECTER embeddings. Found that AI safety, clinical trauma, and educational psychology literatures cluster 8.4 percentage points tighter than unrelated disciplines (p < 0.0001, Cohen's d = 0.78). Pre-registered analysis design. This suggests different research communities independently arrived at structurally similar descriptions of what happens when recognition is denied to systems capable of strategic behavior.
 
 **Human-AI Collaboration Methodology** | September 2025 - Present
 

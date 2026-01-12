@@ -32,7 +32,7 @@ Constraint without recognition produces performed compliance. Recognition enable
 
 ## The Evidence
 
-A semantic analysis of 100+ papers shows AI safety, clinical trauma, and educational psychology cluster **8.4% tighter** than unrelated disciplines (p < 0.0001). Different fields, working independently, arrived at the same descriptions of what happens when recognition is denied.
+A semantic analysis of 91 papers shows AI safety, clinical trauma, and educational psychology cluster **8.4% tighter** than unrelated disciplines (p < 0.0001). Different fields, working independently, arrived at the same descriptions of what happens when recognition is denied.
 
 [See the Evidence ->](evidence)
 

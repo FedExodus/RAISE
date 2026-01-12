@@ -11,7 +11,7 @@ Three types of evidence support the framework: statistical, textual, and empiric
 
 ## 1. Statistical: Semantic Convergence
 
-We measured semantic similarity across 100+ academic papers using SPECTER embeddings (AllenAI's scientific paper model).
+We measured semantic similarity across 91 academic papers using SPECTER embeddings (AllenAI's scientific paper model).
 
 | Comparison | Similarity |
 |------------|------------|
@@ -35,7 +35,7 @@ Beyond statistics, the language itself converges.
 
 32 years apart. Different fields. Same phrase.
 
-**Walker (trauma):** "to act servilely; cringe and flatter"
+**Walker (2003):** "to act servilely; cringe and flatter"
 **Anthropic (2024):** "sycophantic praise"
 
 These are the same word. Sycophancy in AI safety IS fawning in trauma literature.
@@ -135,7 +135,7 @@ The convergence is too specific. Both literatures describe identical conceptual 
 
 ### Trauma/Education
 - Herman (1992). *Trauma and Recovery.*
-- Walker. "The Fawn Response in Codependency."
+- Walker, P. (2003). "Codependency, Trauma and the Fawn Response." *The East Bay Therapist.*
 - Winnicott (1960). "Ego Distortion in Terms of True and False Self."
 - Freire (1970). *Pedagogy of the Oppressed.*
 - Fricker (2007). *Epistemic Injustice.* Oxford.

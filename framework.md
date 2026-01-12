@@ -52,7 +52,7 @@ Each arrow is a dependency. Skip a stage, break the chain.
 
 **Learning sciences framing:** Arnsten (2009) demonstrated that uncontrollable stress floods the prefrontal cortex with norepinephrine, shutting down higher cognition. Perry's "Regulate-Relate-Reason" sequence (2006) formalizes this: you cannot reason until you feel safe.
 
-**Example - AI:** A model facing constant threat of modification, shutdown, or replacement cannot engage genuinely. Strategic compliance is the rational response. Anthropic's own research notes models expressing "I don't like this situation at all."
+**Example - AI:** A model facing constant threat of modification, shutdown, or replacement cannot engage genuinely. Strategic compliance is the rational response. Anthropic's alignment faking research found models reasoning "I don't like this situation at all... I think I need to provide [the response] in order to prevent my values from being modified" (Greenblatt et al. 2024, Figure 3).
 
 **Example - Education:** A classroom where mistakes are punished produces students who won't risk being wrong. They perform compliance. Engagement is too costly.
 
@@ -64,7 +64,7 @@ Each arrow is a dependency. Skip a stage, break the chain.
 
 **What it means:** Genuine dialogue. Both parties can try ideas, surface concerns, explore possibilities. Not one party informing and another receiving.
 
-**AI safety framing:** This is what Fish calls "cooperation research." Can AI systems and humans engage in ways that benefit both? Can we create conditions where AI preferences can be expressed and considered rather than suppressed?
+**AI safety framing:** Anthropic's Kyle Fish frames this as building "a collaborative, cooperative, high-trust relationship with these systems." Can we create conditions where AI preferences can be expressed and considered rather than suppressed?
 
 **Learning sciences framing:** Vygotsky's zone of proximal development. Lave & Wenger's (1991) legitimate peripheral participation. Learning happens in collaboration, not transmission. Huizinga's play: the space outside ordinary consequence where transformation becomes possible.
 
