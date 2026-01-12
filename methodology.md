@@ -78,7 +78,7 @@ The recognition engine, for example, implements multi-force graph dynamics: sema
 | Artifact | What It Demonstrates |
 |----------|---------------------|
 | Master's thesis statistics | 303,600 coding decisions, Cohen's kappa = 0.83, proper bootstrap resampling |
-| Recognition engine | Graph algorithms, force-directed layout, semantic similarity computation |
+| Recognition engine | Graph algorithms (betweenness centrality, clustering, pagerank), semantic similarity computation |
 | Embedding pipeline | Sentence transformers, UMAP dimensionality reduction, visualization |
 | Semantic Scholar integration | API design, rate limiting, caching, data pipeline |
 
@@ -86,9 +86,11 @@ The recognition engine, for example, implements multi-force graph dynamics: sema
 
 | Artifact | What It Demonstrates |
 |----------|---------------------|
-| 140+ GitHub issues | Systematic project management, not ad-hoc prompting |
+| 240+ GitHub issues | Systematic project management, not ad-hoc prompting |
 | Polyphonic code comments | Verification happening in real-time, documented |
-| PR workflow | Branch protection, review process, professional practice |
+| PR workflow | Branch rulesets require PRs to merge to master |
+| CI/CD pipeline | Secret scanning (Trufflehog), link checking, Dependabot |
+| Secrets management | GitHub Secrets for API keys, local .env (gitignored) |
 | Lesson log | Honest failure documentation, protocol improvement |
 
 ---
