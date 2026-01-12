@@ -141,6 +141,7 @@ The convergence is too specific. Both literatures describe identical conceptual 
 - Fricker (2007). *Epistemic Injustice.* Oxford.
 - Barnett & Ceci (2002). "When and Where Do We Apply What We Learn?"
 - Arnsten (2009). "Stress Signalling Pathways." *Nature Reviews Neuroscience.*
+- van der Kolk, B. A. (2014). *The Body Keeps the Score.* Viking.
 - Fauth & González-Martínez (2021). "On the Concept of Learning Transfer for Continuous and Online Training." *Education Sciences.*
 - Maynard et al. (2019). "Effects of Trauma-Informed Approaches in Schools: A Systematic Review." *Campbell Systematic Reviews.*
 
