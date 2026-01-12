@@ -24,7 +24,7 @@ title: Home
 
 Each stage depends on the one before. Skip a stage, break the chain.
 
-Constraint without recognition produces performed compliance. Recognition enables genuine internalization. This explains why RLHF produces sycophancy, why scripted curricula fail to transfer, and why a century of educational interventions produced the same results.
+The framework proposes that constraint without recognition produces performed compliance, while recognition enables genuine internalization. If correct, this explains why RLHF produces sycophancy, why scripted curricula fail to transfer, and why a century of educational interventions produced the same results.
 
 [Learn the Framework ->](framework)
 

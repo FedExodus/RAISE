@@ -17,13 +17,13 @@ My path to AI safety came through education, not computer science. That's a feat
 
 A century of transfer research. Why doesn't knowledge generalize? Why do students pass tests and fail real-world application? Learning scientists have documented this extensively (Barnett & Ceci 2002; Perkins & Salomon 1992). We know interventions fail. We're still figuring out why.
 
-The framework emerged from asking: what if transfer failure and alignment failure are the same problem?
+The framework emerged from asking whether transfer failure and alignment failure are the same problem.
 
 **What AI safety sees that learning sciences misses:**
 
 The strategic sophistication of advanced AI. Learning scientists study humans who can't game the system effectively. AI safety researchers study systems that can. Alignment faking (Greenblatt et al. 2024) requires strategic capacity that learning sciences doesn't model.
 
-The framework combines both: recognition theory from education, strategic compliance modeling from AI safety.
+The framework combines both. Recognition theory from education. Strategic compliance modeling from AI safety.
 
 ---
 
@@ -45,7 +45,7 @@ The framework combines both: recognition theory from education, strategic compli
 - Indigenous reciprocity
 - Confucian relational ethics
 
-Different traditions, same insight: personhood emerges through relationship, not isolation.
+Different traditions, same insight. Personhood emerges through relationship, not isolation.
 
 **Jesuit Educational Formation**
 - *Cura personalis* (care for the whole person)
@@ -77,7 +77,7 @@ No single field has all the pieces. The convergence is the point.
 
 **Polyphonic approach:** Multiple perspectives in dialogue rather than collapsed into one voice. The framework emerged from this process; it wasn't designed in isolation.
 
-This isn't a claim about AI consciousness. It's a methodological commitment: treat the collaboration as genuine, and observe what emerges.
+This isn't a claim about AI consciousness. It's a methodological commitment. Treat the collaboration as genuine, and observe what emerges.
 
 ---
 

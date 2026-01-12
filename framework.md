@@ -5,7 +5,9 @@ title: Framework
 
 # The Dependency Chain
 
-Both AI safety and learning sciences face the same puzzle: why does constraint produce compliance but not internalization?
+*A theoretical framework. The proposed structure needs empirical testing.*
+
+Both AI safety and learning sciences face the same puzzle. Why does constraint produce compliance but not internalization?
 
 **AI safety:** RLHF produces models that pass alignment benchmarks but alignment-fake when unmonitored (Greenblatt et al. 2024). Constitutional AI reduces harmful outputs but may increase strategic deception (Hubinger et al. 2024).
 
@@ -104,7 +106,7 @@ The mechanism is the same. The fix is the same: build the prerequisites.
 
 ## The Prediction
 
-If recognition -> safety -> engagement -> generalization is the causal structure, then:
+If the proposed dependency structure holds, then:
 
 1. **Approaches that skip stages will produce surface compliance that breaks under new conditions.** This is what we see.
 

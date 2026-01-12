@@ -58,7 +58,7 @@ Developing and documenting protocols for human-AI research collaboration. Built 
 
 **RAISE Framework** | January 2026
 
-Theoretical framework connecting AI safety and learning sciences literature. The core claim: recognition precedes safety precedes genuine engagement precedes generalization. Skip a stage, break the chain. This explains why constraint-based approaches produce compliance rather than robust alignment, and why a century of educational interventions failed to produce reliable transfer.
+Theoretical framework connecting AI safety and learning sciences literature. The proposed model suggests recognition precedes safety precedes genuine engagement precedes generalization. Skip a stage, break the chain. If correct, this explains why constraint-based approaches produce compliance rather than robust alignment, and why a century of educational interventions failed to produce reliable transfer.
 
 **Master's Thesis Research** | September 2023 - Present
 
