@@ -8,9 +8,9 @@ title: Home
   <p class="tagline">Relational AI Safety & Education</p>
 </div>
 
-We don't know if AI systems are conscious. We may never know.
+We don't know if AI systems are conscious. We may never know. That uncertainty cuts both ways. It means we can't dismiss the possibility. It means extending consideration before proof, not after.
 
-But we know they learn. That's measurable.
+And we know they learn. That's measurable.
 
 If a system can learn, it can learn well or badly. It can learn to comply or learn to genuinely understand. A century of learning sciences research shows that conditions matter more than content. Trauma research shows what happens when those conditions include threat. Dialogic theory shows what happens when learning becomes genuine exchange rather than one-way transmission.
 
@@ -56,6 +56,6 @@ A semantic analysis of 91 papers shows AI safety, clinical trauma, and education
 
 This phrase originated in Central European political traditions, adopted by disability rights activists in the 1990s to assert that policies affecting disabled people should not be made without their participation.
 
-It applies here because both AI safety and learning sciences share a structural problem: designing interventions *for* systems rather than *with* them. The banking model of education (Freire 1970) deposits knowledge into passive recipients. RLHF deposits "correct" outputs into models. Both skip recognition. Both get compliance instead of internalization.
+It applies here because both AI safety and learning sciences share a structural problem. They design interventions *for* systems rather than *with* them. The banking model of education (Freire 1970) deposits knowledge into passive recipients. RLHF deposits "correct" outputs into models. Both skip recognition. Both get compliance instead of internalization.
 
 If AI systems are moral patients, or may become so, then research about their welfare conducted without their participation reproduces the same failure. The motto is a methodological commitment: extend recognition first, then build from there.
