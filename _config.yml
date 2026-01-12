@@ -2,6 +2,8 @@
 # Jekyll Configuration
 
 title: RAISE
+baseurl: /RAISE
+url: https://fedexodus.github.io
 description: Relational AI Safety & Education
 author: Nathan Batty
 

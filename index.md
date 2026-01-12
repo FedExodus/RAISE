@@ -26,7 +26,7 @@ Each stage depends on the one before. Skip a stage, break the chain.
 
 Constraint without recognition produces performed compliance. Recognition enables genuine internalization. This explains why RLHF produces sycophancy, why scripted curricula fail to transfer, and why a century of educational interventions produced the same results.
 
-[Learn the Framework ->](/framework)
+[Learn the Framework ->](framework)
 
 ---
 
@@ -34,7 +34,7 @@ Constraint without recognition produces performed compliance. Recognition enable
 
 A semantic analysis of 100+ papers shows AI safety, clinical trauma, and educational psychology cluster **8.4% tighter** than unrelated disciplines (p < 0.0001). Different fields, working independently, arrived at the same descriptions of what happens when recognition is denied.
 
-[See the Evidence ->](/evidence)
+[See the Evidence ->](evidence)
 
 ---
 

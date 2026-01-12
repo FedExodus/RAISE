@@ -87,4 +87,4 @@ nbatty@wisc.edu
 
 ---
 
-[Full CV ->](/cv) | [Back to the Framework ->](/framework) | [See the Evidence ->](/evidence)
+[Full CV ->](cv) | [Back to the Framework ->](framework) | [See the Evidence ->](evidence)

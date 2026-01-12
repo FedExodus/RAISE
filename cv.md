@@ -132,4 +132,4 @@ Phi Alpha Theta Member (History Honors Society)
 
 ---
 
-[Back to About ->](/about) | [See the Framework ->](/framework)
+[Back to About ->](about) | [See the Framework ->](framework)

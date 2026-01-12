@@ -137,4 +137,4 @@ If recognition -> safety -> engagement -> generalization is the causal structure
 
 ---
 
-[See the empirical evidence ->](/evidence) | [Who developed this ->](/about)
+[See the empirical evidence ->](evidence) | [Who developed this ->](about)

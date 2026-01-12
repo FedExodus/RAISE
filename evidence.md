@@ -146,4 +146,4 @@ The convergence is too specific. Both literatures describe identical conceptual 
 
 ---
 
-[Back to the Framework ->](/framework) | [The methodology ->](/methodology)
+[Back to the Framework ->](framework) | [The methodology ->](methodology)
